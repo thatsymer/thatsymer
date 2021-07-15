@@ -1,6 +1,6 @@
 <a name="Heading"></a>
 #           👋  Hello there, I'm **Symer**
-I am a passionate fresh Computer Engineering Graduate and on my way being a Web Developer.
+I am a fresh Computer Engineering Graduate that have a keen interest in building and learning new things in the web.
 ****
 - 🔭 I’m currently unemployed
 - 🌱 I’m currently learning ReactJS
