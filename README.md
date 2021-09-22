@@ -3,7 +3,7 @@
 I am a fresh Computer Engineering Graduate that has a keen interest in coding, building and learning new things on the web.
 ****
 - 🔭 I’m currently unemployed
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning WebDev
 - 👀 I’m looking to improve my skills
 - 💬 Ask me about anything [here](https://www.facebook.com/symre.1998)
 ****
