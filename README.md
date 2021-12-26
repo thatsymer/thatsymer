@@ -2,9 +2,8 @@
 #           👋  Hello there, I'm **Symer**
 I am a fresh Computer Engineering Graduate that has a keen interest in coding, building and learning new things on the web.
 ****
-- 🔭 I’m currently unemployed
-- 🌱 I’m currently learning WebDev
-- 👀 I’m looking to improve my skills
+- 🔭 I’m currently employed @ qadra.studio as a web developer
+- 🌱 I’m currently gaining xp
 - 💬 Ask me about anything [here](https://www.facebook.com/symre.1998)
 ****
 
